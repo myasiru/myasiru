@@ -61,10 +61,22 @@ I am a Quality Assurance Automation Engineer with **5+ years of experience** del
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Highlights
+
+| Metric | Details |
+| :--- | :--- |
+| 💼 **Total Contributions** | **2,000+** Commits & Code Reviews |
+| 🏆 **Certifications** | ISTQB® Certified Tester Foundation Level (CTFL) |
+| ⚡ **Primary Stack** | Playwright (TS), Selenium (Java), Appium, REST Assured |
+| 🚀 **CI/CD Pipelines** | GitHub Actions, Azure DevOps, Jenkins |
+| 🌐 **Domain Expertise** | E-Commerce, HR-Tech, EdTech |
+
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myasiru&theme=tokyonight" alt="Mustafa's GitHub Streak" width="98%" />
+  <img src="https://img.shields.io/badge/GitHub-Contributions%202000%2B-brightgreen?style=for-the-badge&logo=github" alt="GitHub Contributions" />
+  <img src="https://img.shields.io/badge/Main%20Language-TypeScript-007ACC?style=for-the-badge&logo=typescript" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Automation-Playwright%20%26%20Selenium-blue?style=for-the-badge" alt="Automation" />
 </p>
 
 ---
