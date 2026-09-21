@@ -63,21 +63,12 @@ I am a Quality Assurance Automation Engineer with **5+ years of experience** del
 
 ### 📊 GitHub Activity & Highlights
 
-| Metric | Details |
-| :--- | :--- |
-| 💼 **Total Contributions** | **2,000+** Commits & Code Reviews |
-| 🏆 **Certifications** | ISTQB® Certified Tester Foundation Level (CTFL) |
-| ⚡ **Primary Stack** | Playwright (TS), Selenium (Java), Appium, REST Assured |
-| 🚀 **CI/CD Pipelines** | GitHub Actions, Azure DevOps, Jenkins |
-| 🌐 **Domain Expertise** | E-Commerce, HR-Tech, EdTech |
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Contributions%202000%2B-brightgreen?style=for-the-badge&logo=github" alt="GitHub Contributions" />
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub-2000%2B%20Contributions-brightgreen?style=for-the-badge&logo=github" alt="GitHub Contributions" />
   <img src="https://img.shields.io/badge/Main%20Language-TypeScript-007ACC?style=for-the-badge&logo=typescript" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Automation-Playwright%20%26%20Selenium-blue?style=for-the-badge" alt="Automation" />
 </p>
+
 
 ---
 
