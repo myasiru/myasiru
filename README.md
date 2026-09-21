@@ -63,12 +63,9 @@ I am a Quality Assurance Automation Engineer with **5+ years of experience** del
 
 ### 📊 GitHub Activity & Highlights
 
-<p align="left">
-  <img src="https://img.shields.io/badge/GitHub-2000%2B%20Contributions-brightgreen?style=for-the-badge&logo=github" alt="GitHub Contributions" />
-  <img src="https://img.shields.io/badge/Main%20Language-TypeScript-007ACC?style=for-the-badge&logo=typescript" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Automation-Playwright%20%26%20Selenium-blue?style=for-the-badge" alt="Automation" />
-</p>
-
+| Metric | Details |
+| :--- | :--- |
+| 💼 **Total Contributions** | **2,000+** Commits & Code Reviews |
 
 ---
 
