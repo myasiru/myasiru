@@ -64,8 +64,7 @@ I am a Quality Assurance Automation Engineer with **5+ years of experience** del
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.now.sh/api?username=myasiru&show_icons=true&theme=tokyonight" alt="Mustafa's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.now.sh/api/top-langs/?username=myasiru&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myasiru&theme=tokyonight" alt="Mustafa's GitHub Streak" width="98%" />
 </p>
 
 ---
