@@ -58,7 +58,6 @@ I am a Quality Assurance Automation Engineer with **5+ years of experience** del
 
 - 📜 **ISTQB Certified Tester Foundation Level (CTFL)** – *2023*
 - 🏆 **Insider One QA Bootcamp** – *Insider One (Mar 2026 – Apr 2026)*
-- 🎓 **Anadolu University** – *Associate Degree in Logistics (2018–2020)*
 
 ---
 
