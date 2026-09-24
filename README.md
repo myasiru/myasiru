@@ -51,6 +51,21 @@ I am a Quality Assurance Automation Engineer with **5+ years of experience** del
   - **Component Pattern:** Isolated reusable UI components (`NavbarComponent`, `FilterComponent`).
   - **Comprehensive API Suite:** Integrated with ReqRes API covering positive, negative, and edge cases.
   - **CI/CD Integration:** Parallel execution via GitHub Actions with HTML artifact reporting.
+ 
+Automation Exercise Playwright BDD Framework
+An enterprise-grade Web UI Test Automation Framework built with Playwright, TypeScript & Cucumber BDD.
+
+Key Highlights & Architecture:
+
+Cucumber BDD Architecture: Gherkin-based test scenario structure powered by @cucumber/cucumber.
+
+Page Object Model (POM) + BasePage: Robust inheritance setup managed via a centralized globalPagesSetup.ts.
+
+Lifecycle & Traceability: Integrated globalHooks.ts for context setup, failure screenshots, and Playwright Trace Viewer.
+
+Multi-Environment Management: Single .env loader supporting dynamic configuration parsing for DEV, UAT, and PROD.
+
+CI/CD Integration: Automated GitHub Actions pipeline executing @smoke and @regression suites with HTML report generation.
 
 ---
 
