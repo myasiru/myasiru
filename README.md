@@ -52,7 +52,7 @@ I am a Quality Assurance Automation Engineer with **5+ years of experience** del
   - **Comprehensive API Suite:** Integrated with ReqRes API covering positive, negative, and edge cases.
   - **CI/CD Integration:** Parallel execution via GitHub Actions with HTML artifact reporting.
  
-#### 2. [Automation Exercise Playwright BDD Framework] (https://github.com/myasiru/automation-exercise-playwright-bdd)
+#### 2. 🛍️ [Automation Exercise Playwright BDD Framework](https://github.com/myasiru/automation-exercise-playwright-bdd)
 > An enterprise-grade Web UI Test Automation Framework built with Playwright, TypeScript & Cucumber BDD.
 
 - **Key Highlights & Architecture:**
