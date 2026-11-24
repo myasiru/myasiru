@@ -62,6 +62,17 @@ I am a Quality Assurance Automation Engineer with **5+ years of experience** del
   - **Lifecycle & Traceability:** Integrated globalHooks.ts for context setup, failure screenshots, and Playwright Trace Viewer.
   - **Multi-Environment Management:** Single .env loader supporting dynamic configuration parsing for DEV, UAT, and PROD.
   - **CI/CD Integration:** Automated GitHub Actions pipeline executing @smoke and @regression suites with HTML report generation.
+ 
+#### 3. 🗂️ [SauceLabs Mobile Test Automation Framework](https://github.com/myasiru/saucelabs-appium-java-bdd)
+
+   > An enterprise-grade Cross-Platform Mobile Test Automation Framework built with **Appium 2.x**, **Java 21**, and **Cucumber BDD**.
+
+   * **Key Highlights & Architecture:**
+     * **Cross-Platform Support:** Native execution architecture for both **Android (UiAutomator2)** and **iOS (XCUITest)** devices.
+     * **Thread-Safe Driver Factory:** Scalable `ThreadLocal` Singleton driver management enabling safe parallel execution.
+     * **Cucumber BDD & JUnit 5:** Business-readable Gherkin scenarios integrated with JUnit 5 Platform Suite and tag-based filtering (`@smoke`, `@regression`).
+     * **Page Object Model (POM):** Modular screen objects and reusable mobile gesture utilities for high maintainability.
+     * **Lifecycle & Reporting:** Automated failure screenshot attachment and structured execution logging via SLF4J/Logback.
 
 ---
 
