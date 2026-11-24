@@ -13,6 +13,7 @@ I am a Quality Assurance Automation Engineer with **5+ years of experience** del
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=Cucumber&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 **API, Backend & Performance**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
@@ -53,26 +54,24 @@ I am a Quality Assurance Automation Engineer with **5+ years of experience** del
   - **CI/CD Integration:** Parallel execution via GitHub Actions with HTML artifact reporting.
  
 #### 2. 🛍️ [Automation Exercise Playwright BDD Framework](https://github.com/myasiru/automation-exercise-playwright-bdd)
-> An enterprise-grade Web UI Test Automation Framework built with Playwright, TypeScript & Cucumber BDD.
+> An enterprise-grade Web UI Test Automation Framework built with **Playwright, TypeScript & Cucumber BDD**.
 
 - **Key Highlights & Architecture:**
-
-  - **Cucumber BDD Architecture:** Gherkin-based test scenario structure powered by @cucumber/cucumber.
-  - **Page Object Model (POM) + BasePage:** Robust inheritance setup managed via a centralized globalPagesSetup.ts.
-  - **Lifecycle & Traceability:** Integrated globalHooks.ts for context setup, failure screenshots, and Playwright Trace Viewer.
-  - **Multi-Environment Management:** Single .env loader supporting dynamic configuration parsing for DEV, UAT, and PROD.
-  - **CI/CD Integration:** Automated GitHub Actions pipeline executing @smoke and @regression suites with HTML report generation.
+  - **Cucumber BDD Architecture:** Gherkin-based test scenario structure powered by `@cucumber/cucumber`.
+  - **Page Object Model (POM) + BasePage:** Robust inheritance setup managed via a centralized `globalPagesSetup.ts`.
+  - **Lifecycle & Traceability:** Integrated `globalHooks.ts` for context setup, failure screenshots, and Playwright Trace Viewer.
+  - **Multi-Environment Management:** Single `.env` loader supporting dynamic configuration parsing for DEV, UAT, and PROD.
+  - **CI/CD Integration:** Automated GitHub Actions pipeline executing `@smoke` and `@regression` suites with HTML report generation.
  
-#### 3. 🗂️ [SauceLabs Mobile Test Automation Framework](https://github.com/myasiru/saucelabs-appium-java-bdd)
+#### 3. 📱 [SauceLabs Mobile Test Automation Framework](https://github.com/myasiru/saucelabs-appium-java-bdd)
+> An enterprise-grade Cross-Platform Mobile Test Automation Framework built with **Appium 2.x, Java 21 & Cucumber BDD**.
 
-   > An enterprise-grade Cross-Platform Mobile Test Automation Framework built with **Appium 2.x**, **Java 21**, and **Cucumber BDD**.
-
-   * **Key Highlights & Architecture:**
-     * **Cross-Platform Support:** Native execution architecture for both **Android (UiAutomator2)** and **iOS (XCUITest)** devices.
-     * **Thread-Safe Driver Factory:** Scalable `ThreadLocal` Singleton driver management enabling safe parallel execution.
-     * **Cucumber BDD & JUnit 5:** Business-readable Gherkin scenarios integrated with JUnit 5 Platform Suite and tag-based filtering (`@smoke`, `@regression`).
-     * **Page Object Model (POM):** Modular screen objects and reusable mobile gesture utilities for high maintainability.
-     * **Lifecycle & Reporting:** Automated failure screenshot attachment and structured execution logging via SLF4J/Logback.
+- **Key Highlights & Architecture:**
+  - **Cross-Platform Support:** Native execution architecture for both **Android (UiAutomator2)** and **iOS (XCUITest)** devices.
+  - **Thread-Safe Driver Factory:** Scalable `ThreadLocal` Singleton driver management enabling safe parallel execution.
+  - **Cucumber BDD & JUnit 5:** Business-readable Gherkin scenarios integrated with JUnit 5 Platform Suite and tag-based filtering (`@smoke`, `@regression`).
+  - **Page Object Model (POM):** Modular screen objects and centralized configuration reader for high maintainability.
+  - **Lifecycle & Reporting:** Cucumber `@After` failure screenshot hooks and structured execution logging via SLF4J/Logback.
 
 ---
 
